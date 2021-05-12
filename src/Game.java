@@ -1,5 +1,3 @@
-package Game;
-
 import java.util.Scanner;
 
 import Game.Game;
